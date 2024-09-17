@@ -1,0 +1,20 @@
+/* Exercise 2 Style sheet*/
+
+.odds       {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: #c25164  }
+
+.odds.big {
+    font-size: 24px;
+}
+
+div.#biggest {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+div.#medium {
+    background-color: #4dad4d;
+    font-size: 24px;
+    font-weight: bold;
+}
