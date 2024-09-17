@@ -8,12 +8,12 @@
     font-size: 24px;
 }
 
-div.#biggest {
+div#biggest {
     color: #0000ff;
     font-size: 36px;
 }
 
-div.#medium {
+div#medium {
     background-color: #4dad4d;
     font-size: 24px;
     font-weight: bold;
