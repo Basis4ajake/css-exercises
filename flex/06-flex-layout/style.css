@@ -21,6 +21,7 @@ body {
 
 a {
   text-decoration: none;
+  color: rgb(139, 90, 139);
 }
 
 ul {
@@ -41,6 +42,7 @@ img {
   align-items: center;
   margin: auto;
   flex-flow: column wrap;
+  gap: 16px;
 }
 button {
   font-family: Roboto, sans-serif;
